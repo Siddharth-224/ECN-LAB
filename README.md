@@ -24,6 +24,7 @@
 
 **CIRCUIT DIAGRAM:**
 
+![WhatsApp Image 2026-03-26 at 8 55 46 AM](https://github.com/user-attachments/assets/26395326-0841-4b71-9f9e-d7645dae8249)
 
 
 
